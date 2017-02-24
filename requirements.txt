@@ -1,0 +1,2 @@
+django-http-proxy
+beautifulsoup4
